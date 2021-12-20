@@ -1,0 +1,43 @@
+ECommerce Projet:
+
+Entities:
+User
+   - id
+   - username
+   -city
+   -street_name
+
+Product-
+      -id
+      -prod_Name
+      -prod_Type
+      -prod_price
+    
+Order -
+      -id
+      -user_id(foreign Key)  
+      -Product_id(foreign key)   
+      -quantity
+      --created At
+
+Hotel Management Project:
+
+Entities:
+ 
+Customer
+	-id
+	-cust_name
+	-address
+Room  
+	-id
+	-flr_no
+	-noOfBed
+
+Booking
+	-id
+	-customer_id
+	-room_id
+	-members
+	-createdAt
+
+     
