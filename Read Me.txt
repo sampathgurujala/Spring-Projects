@@ -35,8 +35,8 @@ Room
 
 Booking
 	-id
-	-customer_id
-	-room_id
+	-customer_id(foreign Key)
+	-room_id (foreign Key)  
 	-members
 	-createdAt
 
