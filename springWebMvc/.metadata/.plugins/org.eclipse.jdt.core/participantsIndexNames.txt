@@ -1,5 +1,0 @@
-INDEX VERSION 1.134
-/Users/gsaisam/eclipse-workspace/springWebMvc/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3364879263.index
-/SpringMVCWebApp/src/main/java
-/Users/gsaisam/eclipse-workspace/springWebMvc/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/991791532.index
-/SpringMVCWebApp/src/main/resources
